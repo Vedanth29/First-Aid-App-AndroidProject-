@@ -1,9 +1,8 @@
 # First-Aid-App using (Android Studio):
 
-# A Mobile Application Development Mini Project on: 
-# First Aid Application
+**A Mobile Application Development Mini Project on: First Aid Application**
 
-# ABSTRACT->
+# Abstract->
 
 In this report, we present a first aid android app that gives assistance to any person suffering a sudden illness and injury in emergency case. This app provides simple step by step instructions for guide user through everyday first aid scenario. Next, first aid apps provide user the videos and animation for easy learning. The user can call 999 the emergency number for the app at any time. Once the user downloads this android app from the Google Play Store then they can use this app without using internet connection. Preloaded content means the users have instant access to all safety information at any time even without reception or an Internet connection as offline mode. Then, this app provides the interactive quizzes that allow the user to earn rank that they can share with their friends and show off their lifesaving knowledge In emergency case, the user will use what type of illness or injury that happen then simple step by step instructions, animation and videos will provide for each scenario. The user can call 999 the emergency number if illness or injury is more critical and need ambulance. The user can use the step as safety tips and treatment for minor conditions while wait for ambulance arrive at the place. There are many situations that require first aid app and it can be used by untrained person.
 # ------------------------------------------------------------------------------
@@ -46,4 +45,7 @@ The main objective for the author to develop this application:--
 * To test the user knowledge first aid by provide test for some situation in the application. 
 At this point, it makes sense for everyone to learn first aid skills and require having this knowledge so we can help each other. All we need to do is take advantage of them.
 
+
+
+![yfy](https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png)
 
