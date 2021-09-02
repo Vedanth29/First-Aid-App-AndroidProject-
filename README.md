@@ -47,6 +47,13 @@ At this point, it makes sense for everyone to learn first aid skills and require
 
 # SNAPSHOTS
 
-https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png
+<img src="https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png" alt="HOME PAGE" width="300" height="600">
 
-<img src="https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png" alt="alt text" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/65438508/131845532-5bd1cad3-3afb-4ed1-9439-72988eb929b5.png" alt="HOME PAGE" width="300" height="600">
+
+<img src="https://user-images.githubusercontent.com/65438508/131845849-fc3850d8-a377-4bb1-93c6-82d332fa5e25.png" alt="AID" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/65438508/131846004-3ee07751-d7f4-4bc6-8d6f-e2bd29fe98e0.png" alt="AID" width="300" height="600">
+
+
+
+
