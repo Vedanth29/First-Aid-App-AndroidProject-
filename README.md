@@ -45,7 +45,7 @@ The main objective for the author to develop this application:--
 * To test the user knowledge first aid by provide test for some situation in the application. 
 At this point, it makes sense for everyone to learn first aid skills and require having this knowledge so we can help each other. All we need to do is take advantage of them.
 
+# SNAPSHOTS
 
-
-![yfy](https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png)
+![yfy](https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png|width=200 height=200)
 
