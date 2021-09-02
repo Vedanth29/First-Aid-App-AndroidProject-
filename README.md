@@ -47,5 +47,5 @@ At this point, it makes sense for everyone to learn first aid skills and require
 
 # SNAPSHOTS
 
-![yfy](https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png|width=200)
+![yfy](https://user-images.githubusercontent.com/65438508/131843902-aabfaac0-f181-44e9-bac7-cf506cfb09e0.png =250x250)
 
