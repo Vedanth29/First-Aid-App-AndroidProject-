@@ -1,12 +1,13 @@
-# First-Aid-App:
+# First-Aid-App using (Android Studio):
 
-# A Mobile Application Development Mini Project on: First Aid Application
+# A Mobile Application Development Mini Project on: 
+# First Aid Application
 
 # ABSTRACT->
 
 In this report, we present a first aid android app that gives assistance to any person suffering a sudden illness and injury in emergency case. This app provides simple step by step instructions for guide user through everyday first aid scenario. Next, first aid apps provide user the videos and animation for easy learning. The user can call 999 the emergency number for the app at any time. Once the user downloads this android app from the Google Play Store then they can use this app without using internet connection. Preloaded content means the users have instant access to all safety information at any time even without reception or an Internet connection as offline mode. Then, this app provides the interactive quizzes that allow the user to earn rank that they can share with their friends and show off their lifesaving knowledge In emergency case, the user will use what type of illness or injury that happen then simple step by step instructions, animation and videos will provide for each scenario. The user can call 999 the emergency number if illness or injury is more critical and need ambulance. The user can use the step as safety tips and treatment for minor conditions while wait for ambulance arrive at the place. There are many situations that require first aid app and it can be used by untrained person.
 # ------------------------------------------------------------------------------
-# Problem Statement--
+# Problem Statement->
 
 We may have only few seconds to save a life when we are in an emergency. Is anything that we can do in an emergency until help arrives? We should do because the only person we may have to depend on is ourselves. First aid is the emergency care given to a victim of injury or sudden illness before professional medical help arrives. Cardiopulmonary resuscitation (CPR) is a lifesaving method or technique useful in many emergencies such as heart attack which someone's breathing or heartbeat has stopped. It is method of combining chest compressions with rescue breathing to maintain a flow of oxygen-rich blood to the brain while the heart is not working. 
 
@@ -26,14 +27,14 @@ To create, design, test, debug and run the android project.
 *	Mouse
 To navigate through the emulator
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Basic system requirements for Android Studio--- Microsoft, Windows, Mac, Linux.
-Operating System Versio--- Microsoft Windows 7/8/10 (32- or 64-bit). 
-The Android Emulator only supports 64-bit Windows	Mac OS X 10.10 (Yosemite) or higher, only up to 10.14 (macOS Mojave)
-GNOME or KDE desktop Tested on Linux based on Debian (4.19.67-2 rodete2).
-Random Access Memory (RAM)---	4 GB RAM minimum; 8 GB RAM recommended.
-Free digital storage---	2 GB of available digital storage minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image).
-Minimum required--- JDK version	Java Development Kit 8
-Minimum screen--- resolution	1280 x 800
+* **Basic system requirements for Android Studio---** Microsoft, Windows, Mac, Linux.
+* **Operating System Versio---** Microsoft Windows 7/8/10 (32- or 64-bit). 
+* **The Android Emulator only supports** 64-bit Windows	Mac OS X 10.10 (Yosemite) or higher, only up to 10.14 (macOS Mojave)
+* GNOME or KDE desktop Tested on Linux based on Debian (4.19.67-2 rodete2).
+* **Random Access Memory (RAM)---**	4 GB RAM minimum; 8 GB RAM recommended.
+* **Free digital storage---**	2 GB of available digital storage minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image).
+* **Minimum required---** JDK version	Java Development Kit 8
+* **Minimum screen---** resolution	1280 x 800
 # ------------------------------------------------------------------------------
 # Objective-> 
 
