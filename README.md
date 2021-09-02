@@ -26,18 +26,16 @@ To create, design, test, debug and run the android project.
 *	Mouse
 To navigate through the emulator
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 
 # Objective-> 
 
 Everybody should know how to manage first aid because it is one of the most valuable skills we can ever have. However, not all of us would endeavor to have first aid certification and most would probably think that they don’t need to be certified. After all, common situations like a child falling down would just entail a mother cleaning up the wound and applying a plaster to the wound. But these are just the very basic first aid techniques that everyone knows how to do. 
 
-The main objective for the author to develop this application: 
-• To develop an application that giving first aid knowledge to the user by using 
-this application. 
-• To provide global positioning system (GPS) to the nearest hospital. 
-• To test the user knowledge first aid by provide test for some situation in the 
-application. 
-At this point, it makes sense for everyone to learn first aid skills and require having this knowledge so we can help each other. All we need to do is take advantage of them
+The main objective for the author to develop this application:-- 
+* To develop an application that giving first aid knowledge to the user by using this application. 
+* To provide global positioning system (GPS) to the nearest hospital. 
+* To test the user knowledge first aid by provide test for some situation in the application. 
+At this point, it makes sense for everyone to learn first aid skills and require having this knowledge so we can help each other. All we need to do is take advantage of them.
 
 
